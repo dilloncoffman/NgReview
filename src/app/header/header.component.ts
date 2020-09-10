@@ -5,7 +5,7 @@ import { Component, OnInit } from '@angular/core';
   template: `
     <div class="navbar is-dark">
       <div class="navbar-brand">
-        <a class="navbar-item">My logo goes here</a>
+        <a class="navbar-item">Logo goes here</a>
       </div>
     </div>
   `,

@@ -5,9 +5,9 @@ import { Component } from '@angular/core';
   template: `
     <!-- header -->
     <app-header></app-header>
+    <app-home></app-home>
     <!-- routes get injected -->
     <router-outlet></router-outlet>
-
     <!-- footer -->
     <app-footer></app-footer>
   `,
